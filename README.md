@@ -6,3 +6,5 @@ This is a finance tracker application that allows users to track their expenses 
 * Track expenses and income
 * Categorize transactions
 * Generate reports
+
+##Dainius Kairys EAf-23
