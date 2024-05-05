@@ -1,0 +1,18 @@
+{
+    "users": {
+        "Dainius": {
+            "expenses": [
+                {
+                    "Amount": 5.0,
+                    "Description": "Kebabas",
+                    "Purchase time": "2024-05-04  19:58:37"
+                },
+                {
+                    "Amount": 10.0,
+                    "Description": "big big kebabas",
+                    "Purchase time": "2024-05-04  20:08:34"
+                }
+            ]
+        }
+    }
+}
