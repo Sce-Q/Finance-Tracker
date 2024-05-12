@@ -11,19 +11,19 @@ The program implements the following functional requirements:
 
 ## Expense Management:
 * The program allows users to add expenses using the add_expense method. This method checks if the user exists in the system and adds the expense to their record.
-  ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/716dd4a2-90f9-461c-b747-8ca15a092c7c)
+* ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/716dd4a2-90f9-461c-b747-8ca15a092c7c)
 
 ## Expense Removal: 
 * The program allows users to remove expenses using the remove_expense method. This method checks if the user exists in the system and removes the expense from their record.
-  ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/c2664e8a-adfc-4e4d-a974-f67803c15aa0)
+* ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/c2664e8a-adfc-4e4d-a974-f67803c15aa0)
 
 ## Expense History:
 * The program allows users to view their expense history using the print_expense_history method. This method checks if the user exists in the system and prints their expense history.
-  ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/82bccec9-ed2c-4cda-be97-980cb699cc78)
+* ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/82bccec9-ed2c-4cda-be97-980cb699cc78)
 
 ## Data Storage:
 * The program stores the data in a JSON file using the load_expense_history and save_expense_history methods. These methods load and save the data to the file, respectively.
-  ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/eaeff7bf-d40f-4aec-897c-9bb0dca76673)
+* ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/eaeff7bf-d40f-4aec-897c-9bb0dca76673)
 
 
 # 3. Results and Summary
