@@ -1,10 +1,7 @@
 # 1. Introduction
-## What is your application?:
-* The application is a personal finance tracker called "FinanceTracker" that allows users to manage their expenses. It is a command-line interface (CLI) program written in Python.
-## How to run the program?:
-* To run the program, simply execute the Python script.
-## How to use the program?:
-* The program provides a menu-driven interface that allows users to add themselves to the system, record their expenses, remove expenses, view their expense history, or exit the program.
+* The goal of this coursework is to design and implement a personal finance tracker application that allows users to manage their expenses. The topic of this project is "Personal Finance Tracker" and the application is a command-line interface (CLI) program written in Python.
+* The application, called "FinanceTracker", allows users to add themselves to the system, record their expenses, remove expenses, and view their expense history. The program stores the data in a JSON file, which is loaded and saved as needed.
+* To run the program, simply execute the Python script. The program will then prompt the user to choose an option from the menu. The user can add a user, add an expense, remove an expense, print the expense history, or exit the program.
 
 # 2. Body/Analysis
 The program implements the following functional requirements:
@@ -30,6 +27,8 @@ The program implements the following functional requirements:
 
 
 # 3. Results and Summary
-Results: The program successfully implements the required features for a personal finance tracker. The program's data storage mechanism allows for persistent data storage between program runs. The program's CLI interface is easy to use and intuitive.
-Conclusions: In conclusion, this coursework has achieved a functional personal finance tracker application that meets the defined objectives and functional requirements. The program provides a simple and intuitive interface for users to manage their expenses.
-Future Extensions: It would be possible to extend the application by adding more features, such as budgeting and expense categorization, and improving the user interface. Additionally, the program could be modified to support multiple users and provide more advanced data analysis and visualization capabilities.
+* Results: The program successfully implements the required features for a personal finance tracker. The program's data storage mechanism allows for persistent data storage between program runs. The program's CLI interface is easy to use and intuitive.
+
+* Conclusions: In conclusion, this coursework has achieved a functional personal finance tracker application that meets the defined objectives and functional requirements. The program provides a simple and intuitive interface for users to manage their expenses.
+
+* Future Extensions: It would be possible to extend the application by adding more features, such as budgeting and expense categorization, and improving the user interface. Additionally, the program could be modified to support multiple users and provide more advanced data analysis and visualization capabilities.
