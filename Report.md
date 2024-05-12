@@ -7,7 +7,7 @@
 The program implements the following functional requirements:
 ## User Management: 
 * The program allows users to add themselves to the system using the add_user method. This method checks if the user already exists in the system and adds them if they don't. 
-  ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/ef6a8298-4f39-4e76-96fc-f8aec1d4fbe0)
+* ![image](https://github.com/Sce-Q/Finance-Tracker/assets/157913107/ef6a8298-4f39-4e76-96fc-f8aec1d4fbe0)
 
 ## Expense Management:
 * The program allows users to add expenses using the add_expense method. This method checks if the user exists in the system and adds the expense to their record.
